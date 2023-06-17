@@ -6,3 +6,4 @@
 * [Cargar imagen y proyecto completo](./files/OpenCV.zip)
 
 ![Cargar imagen y proyecto completo](./files/opencv3.png)
+![alt text](opencv3.PNG)
