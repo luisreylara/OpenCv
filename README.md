@@ -6,3 +6,5 @@
 
 * [Cargar imagen y menus. Proyecto completo](./files/OpenCV.zip)
 * ![alt text](./files/opencv3.PNG)
+* [Cargar imagen spinner Proyecto completo](./files/OpenCv_Spinner.zip)
+* ![alt text](./files/spinner.PNG)
